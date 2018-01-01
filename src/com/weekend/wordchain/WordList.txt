@@ -1,0 +1,6 @@
+aloha
+dog
+arachnid
+gopher
+tiger
+rat
